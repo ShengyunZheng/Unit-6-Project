@@ -1,0 +1,81 @@
+body {
+    color: #ff0000;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: #000000;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    background-color: #000000;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+.passed {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.passed-img {
+    height: 300px;
+}
+
+.failed {
+    display: none;
+}
+
+.the-doors {
+    display: none;   
+}
+
+.door1outcome {
+    display: none;
+}
+
+.door2outcome {
+    display: none;
+}
+
+.door3outcome {
+    display:none;
+}
+
+.door1-image {
+    height: 350px;
+}
+
+.door2-image {
+    height: 350px;
+}
+
+.door3-image {
+    height:350px;
+}
+
+.outcome1image {
+    height:15em;
+}
+
+h1 {
+    font-size: 50px;
+}
